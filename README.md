@@ -9,6 +9,6 @@ in StyleAttack-main.
 We run a combination of experiments that are in the paper and
 are not in the paper above.
 
-To run the experiments in the paper, run the python notebook "".
+To run the experiments in the paper, run the python notebook "PaperExperiments517FinalProject.ipynb".
 
 To run the experiments not in the paper, run the python notebook "NonPaperExperiments517FinalProject.ipynb".
